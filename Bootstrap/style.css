@@ -1,0 +1,22 @@
+
+h1{
+    color: blue;
+}
+
+/* bootstrap class e o css apply kora jay */
+.container
+{
+    background-color: blueviolet;
+    color: #fff;
+
+}
+
+.container h1
+{
+    background-color: blueviolet;
+    color: #fff;
+
+}
+
+/* Container and Grid */
+
